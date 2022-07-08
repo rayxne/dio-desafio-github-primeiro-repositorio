@@ -1,0 +1,3 @@
+Hoje tive meu primeiro contato com Git e Github. Estou participando de um Bootcamp voltado para Java oferecido pelo Banco Santander em parceria com a DIO.
+Este repositório é uma atividade do I módulo do referido bootcamp.
+
